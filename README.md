@@ -9,7 +9,7 @@ npm run dev
 
 # 生产环境进行打包，打包后的文件在dist目录下
 npm run build
-``
+
 
 ```
 
